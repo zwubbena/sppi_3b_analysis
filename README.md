@@ -93,5 +93,5 @@ This tiered structure supports a clear, step-by-step interpretation of statewide
 ## Source
 
 Texas Education Agency  
-[Data and Reporting Team]([https://tea.texas.gov/texas-schools/accountability/academic-accountability/performance-reporting](https://tea.texas.gov/academics/special-student-populations/special-education/data-and-reports)
+[Data and Reporting Team](https://tea.texas.gov/academics/special-student-populations/special-education/data-and-reports)
 

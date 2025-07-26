@@ -88,10 +88,3 @@ This tiered structure supports a clear, step-by-step interpretation of statewide
 | `TOT_RA_WOUT_PCT` | Total Proficient without Accommodations (%) | Percent of IEP students scoring proficient (regular + advanced STAAR) without accommodations. |
 | `DATE_PROCESSED` | Processing Date | The date the data were processed for analysis. |
 
----
-
-## Source
-
-Texas Education Agency  
-[Data and Reporting Team](https://tea.texas.gov/academics/special-student-populations/special-education/data-and-reports)
-
